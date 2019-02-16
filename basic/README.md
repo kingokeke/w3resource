@@ -1,6 +1,6 @@
 # JavaScript Practice Questions - Basic
 
-These are solutions to practice questions sourced from **[W3Resource][w3resource URL for Basic JS practice]**.
+These are solutions to practice questions sourced from **[W3Resource - JavaScript Basic][w3resource URL for Basic JS practice]**.
 
 
 
